@@ -1,0 +1,12 @@
+{
+	"name": "doo-vjdev/test",
+	"description": "Test repo",
+	"type": "library",
+	"keywords": ["test"],
+	"homepage": "http://vjdev.net",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.4.16",
+	},
+}
+
