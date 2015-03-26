@@ -8,5 +8,6 @@
 	"require": {
 		"php": ">=5.4.16",
 	},
+	"version": "dev-master"
 }
 
